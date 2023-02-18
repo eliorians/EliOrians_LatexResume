@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1674762082 "c:/Users/Eli Orians/Desktop/EliOrians_LatexResume_2023/resume.tex" "resume.pdf" "resume" 1674762089 0
+["lualatex"] 1676745097 "c:/Users/Eli Orians/Desktop/Repo/EliOrians_LatexResume_2023/resume.tex" "resume.pdf" "resume" 1676745103 0
   "C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/fontawesome5brands-regular-400.luc" 1674760095 180107 208a3a3d84af785d55f743213aa8dcd8 ""
   "C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/fontawesome5free-solid-900.luc" 1674760094 380932 055e080e2d5d1a5238edc3eb5f5396a9 ""
   "C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/latinmodern-math.luc" 1674760125 637076 972145bfd4c33b9382ff3815cd5d405f ""
@@ -36,11 +36,12 @@
   "C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-semibold.luc" 1674760115 700400 8b0e8aa7a58ef61083fdfb555208d72a ""
   "C:/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-semiboldit.luc" 1674760117 439918 6b4dd7fcd06114d06125719ff2ee16fd ""
   "C:/texlive/2022/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1674760092 287163 80f14bb03dd9f04cb282dcc1d0e3d9c1 ""
-  "c:/Users/Eli Orians/Desktop/EliOrians_LatexResume_2023/resume.tex" 1674761934 3347 816f2ecb0171f1c73f3a472e5e9bb089 ""
+  "c:/Users/Eli Orians/Desktop/Repo/EliOrians_LatexResume_2023/resume.tex" 1676744070 3348 ef42d9cdea539068aa373e3cf1170c78 ""
   "c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf" 1674754289 298076 80ce97244540da2d0d07e09c6a4488ef ""
   "c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf" 1674754289 290464 8bb0aec8e75b3758fd4a618f79da8d36 ""
   "c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf" 1674754289 204752 e0d1f4d4be9ea40ec2e632c1080c8b4f ""
   "c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf" 1674754289 293200 520016c8b012c6c800dd1fb71e57425e ""
+  "c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularIt.otf" 1674754289 208408 e270c9080521701ce0914126752f2b60 ""
   "c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Semibold.otf" 1674754289 295952 89de3371544d1a52c121c8c4e9569733 ""
   "c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf" 1674753171 186664 6ec8032ccf5b7eca84475e300a49064c ""
   "c:/texlive/2022/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf" 1674749769 183524 4e4e091c8163681db1b0891d5ece3926 ""
@@ -265,11 +266,11 @@
   "c:/texlive/2022/texmf-var/web2c/luahbtex/lualatex.fmt" 1674756326 11876463 d63899e71c1859c3787837a176946ee6 ""
   "cv/education.tex" 1674761934 1411 ac0c0f68eea3497fbe729a33ccb7a520 ""
   "cv/experience.tex" 1674761934 2860 3f4de7b5f597614fe5399f3fcc4551f8 ""
-  "cv/projects.tex" 1674761934 1724 ad70cf781d468557c30dcbc473d2d7cf ""
+  "cv/projects.tex" 1676744966 1754 d1ec828daefa6a98a7b8838d0982c8aa ""
   "cv/skills.tex" 1674761934 993 7b8acc36b44478d4aa330428d4499b79 ""
-  "resume.aux" 1674762088 585 6e16dfdbfb4f3caf7114ede34dce9db6 "lualatex"
-  "resume.tex" 1674761934 3347 816f2ecb0171f1c73f3a472e5e9bb089 ""
-  "russell.cls" 1674761934 28409 1ba956fd8536b64fb95d50501cad0c8b ""
+  "resume.aux" 1676745103 585 6e16dfdbfb4f3caf7114ede34dce9db6 "lualatex"
+  "resume.tex" 1676744070 3348 ef42d9cdea539068aa373e3cf1170c78 ""
+  "russell.cls" 1676745079 28399 ada6d610d12f3da5c611f15af89b6f4c ""
   (generated)
   "resume.aux"
   "resume.log"

@@ -1,6 +1,6 @@
-PWD c:/Users/Eli Orians/Desktop/EliOrians_LatexResume_2023
+PWD c:/Users/Eli Orians/Desktop/Repo/EliOrians_LatexResume_2023
 INPUT c:/texlive/2022/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT c:/Users/Eli Orians/Desktop/EliOrians_LatexResume_2023/resume.tex
+INPUT c:/Users/Eli Orians/Desktop/Repo/EliOrians_LatexResume_2023/resume.tex
 OUTPUT resume.log
 INPUT c:/texlive/2022/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
 INPUT c:/texlive/2022/texmf-dist/tex/latex/base/ltluatex.lua

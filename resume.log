@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.1.26)  26 JAN 2023 14:41
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2023.1.26)  18 FEB 2023 13:31
  restricted system commands enabled.
  file:line:error style messages enabled.
-**"c:/Users/Eli Orians/Desktop/EliOrians_LatexResume_2023/resume.tex"
-("c:/Users/Eli Orians/Desktop/EliOrians_LatexResume_2023/resume.tex"
+**"c:/Users/Eli Orians/Desktop/Repo/EliOrians_LatexResume_2023/resume.tex"
+("c:/Users/Eli Orians/Desktop/Repo/EliOrians_LatexResume_2023/resume.tex"
 LaTeX2e <2022-11-01> patch level 1
 Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
 Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
@@ -806,23 +806,21 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 23.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 23.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not available
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 23.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sl' in size <8> not available
+(Font)              Font shape `TU/SourceSansPro(1)/m/it' tried instead on input line 23.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 23.
 ) (./cv/experience.tex) (./cv/projects.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 24.
+(Font)              scaled to size 9.0pt on input line 25.
 ) (./cv/skills.tex
 Overfull \hbox (25.28793pt too wide) in alignment at lines 10--29
 [] []
  []
 
 )
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 93.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 93.
  [1
@@ -830,19 +828,19 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./resume.aux))
 
 Here is how much of LuaTeX's memory you used:
- 36266 strings out of 478330
+ 36265 strings out of 478330
  125086,1977958 words of node,token memory allocated
  646 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 83 glue_spec, 7 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1741,3:685,4:574,5:1194,6:283,7:9926,8:34,9:1641,10:12,11:537
- 55264 multiletter control sequences out of 65536+600000
- 109 fonts using 20867239 bytes
- 114i,11n,124p,620b,1110s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Semibold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf><c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf>
-Output written on resume.pdf (1 page, 33222 bytes).
+   avail lists: 1:1,2:1777,3:703,4:586,5:1197,6:289,7:9997,8:34,9:1659,10:12,11:541
+ 55263 multiletter control sequences out of 65536+600000
+ 108 fonts using 20620139 bytes
+ 114i,11n,124p,625b,1110s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Semibold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularIt.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf><c:/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf><c:/texlive/2022/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf><c:/texlive/2022/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf>
+Output written on resume.pdf (1 page, 35685 bytes).
 
-PDF statistics: 81 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+PDF statistics: 88 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
